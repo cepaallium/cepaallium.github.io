@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cepaallium.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://cepaallium.github.io/post/first/</loc>
+    <lastmod>2019-06-21T09:24:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cepaallium.github.io/</loc>
+    <lastmod>2019-06-21T09:24:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cepaallium.github.io/post/</loc>
+    <lastmod>2019-06-21T09:24:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cepaallium.github.io/about/</loc>
+    <lastmod>2019-06-21T09:18:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cepaallium.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
